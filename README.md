@@ -56,14 +56,16 @@ This hands-on implementation provided practical experience with the same types o
 5. SSH into the Linux Virtual Machine
 6. Remove Azure Resources to Prevent Unnecessary Cloud Costs
 
----
+---   
+
 
 # Deployment and Configuration Steps
 
 ## Step 1 — Deploy Windows and Linux Virtual Machines
 
 <p>
-<img src="<img width="1649" height="1072" alt="(1st) Lab 1 Screenshot Resource Ov copy" src="https://github.com/user-attachments/assets/f83acd96-83d0-4807-8256-c4b3975129dc" />
+<img src="<img width="1649" height="1072" alt="(1st) Lab 1 Screenshot Resource Ov copy" src="https://github.com/user-attachments/assets/1f003da1-5cd9-46a6-b592-e02f19ef9744" />
+
 " height="80%" width="80%" alt="Azure Virtual Machines Running"/>
 </p>
 
