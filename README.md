@@ -56,18 +56,14 @@ This hands-on implementation provided practical experience with the same types o
 5. SSH into the Linux Virtual Machine
 6. Remove Azure Resources to Prevent Unnecessary Cloud Costs
 
----   
-
+---
 
 # Deployment and Configuration Steps
 
 ## Step 1 — Deploy Windows and Linux Virtual Machines
 
-<p>
-<img src="<img width="1649" height="1072" alt="(1st) Lab 1 Screenshot Resource Ov copy" src="https://github.com/user-attachments/assets/1f003da1-5cd9-46a6-b592-e02f19ef9744" />
-
-" height="80%" width="80%" alt="Azure Virtual Machines Running"/>
-</p>
+![Azure Virtual Machines Running](<img width="1649" height="1072" alt="(1st) Lab 1 Screenshot Resource Ov copy" src="https://github.com/user-attachments/assets/7b14c62b-cec5-4e08-bb04-0266b02040c0" />
+)
 
 Deployed both Windows 10 and Ubuntu Linux virtual machines within Microsoft Azure and connected them through a shared Virtual Network. This simulated a real-world cloud infrastructure environment commonly used by businesses to host applications, services, and internal systems.
 
@@ -75,9 +71,7 @@ Deployed both Windows 10 and Ubuntu Linux virtual machines within Microsoft Azur
 
 ## Step 2 — Analyze Network Traffic Using Wireshark
 
-<p>
-<img src="INSERT_IMAGE_2_HERE" height="80%" width="80%" alt="Wireshark ICMP Traffic Analysis"/>
-</p>
+![Wireshark ICMP Traffic Analysis](PASTE_GITHUB_IMAGE_LINK_HERE)
 
 Captured and analyzed live ICMP traffic between both virtual machines using Wireshark. This demonstrated how network administrators monitor packet transmission, troubleshoot connectivity issues, and diagnose communication problems across enterprise systems.
 
@@ -85,9 +79,7 @@ Captured and analyzed live ICMP traffic between both virtual machines using Wire
 
 ## Step 3 — Configure Firewall Rules Using Azure NSGs
 
-<p>
-<img src="INSERT_IMAGE_3_HERE" height="80%" width="80%" alt="Azure NSG Firewall Configuration"/>
-</p>
+![Azure NSG Firewall Configuration](PASTE_GITHUB_IMAGE_LINK_HERE)
 
 Configured custom Network Security Group firewall rules within Azure to block ICMP traffic between systems. This demonstrated how organizations secure cloud infrastructure by controlling inbound and outbound network communication to reduce security risks and protect sensitive systems.
 
@@ -95,9 +87,7 @@ Configured custom Network Security Group firewall rules within Azure to block IC
 
 ## Step 4 — SSH into the Linux Virtual Machine
 
-<p>
-<img src="INSERT_IMAGE_4_HERE" height="80%" width="80%" alt="SSH Linux VM Connection"/>
-</p>
+![SSH Linux VM Connection](PASTE_GITHUB_IMAGE_LINK_HERE)
 
 Established an SSH connection from the Windows virtual machine directly into the Ubuntu Linux virtual machine and executed Linux commands remotely. This simulated real-world cloud administration workflows used by IT professionals to remotely manage servers and infrastructure.
 
@@ -105,9 +95,7 @@ Established an SSH connection from the Windows virtual machine directly into the
 
 ## Step 5 — Delete Azure Resources and Practice Cost Management
 
-<p>
-<img src="INSERT_IMAGE_5_HERE" height="80%" width="80%" alt="Azure Resource Group Deletion"/>
-</p>
+![Azure Resource Group Deletion](PASTE_GITHUB_IMAGE_LINK_HERE)
 
 Removed all deployed Azure resources after completing the lab to prevent unnecessary cloud charges and practice responsible cloud resource management. This reinforced the importance of infrastructure cleanup and cost optimization within cloud environments.
 
