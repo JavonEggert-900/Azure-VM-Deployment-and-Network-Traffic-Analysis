@@ -1,7 +1,7 @@
 # Azure VM Deployment and Network Traffic Analysis
 
 <p align="center">
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/aace9b10-eb1a-47d7-bf1b-12053df00415" />
+<img width="321" height="157" alt="image" src="https://github.com/user-attachments/assets/99304a54-11b3-4f88-91ad-aa44e6fc8384" />
 
 </p>
 
