@@ -1,7 +1,8 @@
 # Azure VM Deployment and Network Traffic Analysis
 
 <p align="center">
-<img src="INSERT_HEADER_IMAGE_HERE" alt="Azure VM Networking Project Banner"/>
+<img width="1199" height="625" alt="image" src="https://github.com/user-attachments/assets/0ab7cdb9-a10a-4199-b1b6-0da4bf507d70" />
+
 </p>
 
 ## Project Overview
