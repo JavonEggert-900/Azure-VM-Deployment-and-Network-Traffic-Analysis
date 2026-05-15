@@ -63,7 +63,8 @@ This hands-on implementation provided practical experience with the same types o
 ## Step 1 — Deploy Windows and Linux Virtual Machines
 
 <p>
-<img src="INSERT_IMAGE_1_HERE" height="80%" width="80%" alt="Azure Virtual Machines Running"/>
+<img src="<img width="1649" height="1072" alt="(1st) Lab 1 Screenshot Resource Ov copy" src="https://github.com/user-attachments/assets/f83acd96-83d0-4807-8256-c4b3975129dc" />
+" height="80%" width="80%" alt="Azure Virtual Machines Running"/>
 </p>
 
 Deployed both Windows 10 and Ubuntu Linux virtual machines within Microsoft Azure and connected them through a shared Virtual Network. This simulated a real-world cloud infrastructure environment commonly used by businesses to host applications, services, and internal systems.
