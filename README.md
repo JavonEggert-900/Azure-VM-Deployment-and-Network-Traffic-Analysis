@@ -1,4 +1,4 @@
-# Azure VM Deployment and Network Traffic Analysis
+# Azure Compute and Networking — Virtual Machine Deployment and Network Traffic Analysis
 
 <p align="center">
 <img width="321" height="157" alt="image" src="https://github.com/user-attachments/assets/99304a54-11b3-4f88-91ad-aa44e6fc8384" />
